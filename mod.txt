@@ -1,0 +1,4 @@
+model-seltos
+reg No-ka16p1030
+manu -2021
+fuel -diesel
